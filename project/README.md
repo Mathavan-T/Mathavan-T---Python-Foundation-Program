@@ -27,17 +27,32 @@ This is a console-based E-commerce management system built using Python and MySQ
 ## 📂 Project Structure
 
 ```bash
-ecommerce_project.zip
+ecommerce_project/
+│
+├── app/
+│   └── EcomApp.py
+│
 ├── dao/
-│   └── product_dao.py
-│   └── user_dao.py
-├── models/
-│   └── product.py
-│   └── user.py
-├── services/
-│   └── ecommerce_service.py
-├── utils/
-│   └── db_connection.py
-│   └── custom_exceptions.py
-├── main.py
-└── README.md
+│   ├── OrderProcessorRepository.py
+│   └── OrderProcessorRepositoryImpl.py
+│
+├── entity/
+│   ├── Customer.py
+│   ├── Product.py
+│   ├── Cart.py
+│   ├── Order.py
+│   └── OrderItem.py
+│
+├── util/
+│   ├── DBConnUtil.py
+│   └── DBPropertyUtil.py
+│   └── db.properties
+│
+├── myexceptions/
+│   ├── CustomerNotFoundException.py
+│   ├── ProductNotFoundException.py
+│   └── OrderNotFoundException.py
+│
+├── test/
+│   └── test_cases.py
+
