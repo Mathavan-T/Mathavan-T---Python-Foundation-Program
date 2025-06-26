@@ -1,9 +1,9 @@
-# 🛒 E-Commerce Management System (Python + MySQL)
+#  E-Commerce Management System (Python + MySQL)
 
 This is a console-based E-commerce management system built using Python and MySQL. It allows users to browse products, manage a shopping cart, and place orders, while admins can manage inventory and view order details.
 ---
 
-## 📌 Features
+##  Features
 
 - User Registration & Login
 - Product Catalog Management
@@ -15,7 +15,7 @@ This is a console-based E-commerce management system built using Python and MySQ
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language**: Python 3.x
 - **Database**: MySQL (via XAMPP)
@@ -24,7 +24,7 @@ This is a console-based E-commerce management system built using Python and MySQ
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 ecommerce_project/
