@@ -18,7 +18,7 @@ This is a console-based E-commerce management system built using Python and MySQ
 ##  Tech Stack
 
 - **Language**: Python 3.x
-- **Database**: MySQL (via XAMPP)
+- **Database**: MySQL
 - **Tools**: VS Code, GitHub
 - **Architecture**: OOP, DAO Pattern
 
