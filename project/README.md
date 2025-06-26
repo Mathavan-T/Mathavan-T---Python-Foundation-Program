@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Management System (Python + MySQL)
 
-This is a console-based E-commerce application developed as part of the Hexaware Python Foundation Program. The project follows Object-Oriented Programming principles and uses MySQL for backend data storage.
-
+This is a console-based E-commerce management system built using Python and MySQL. It allows users to browse products, manage a shopping cart, and place orders, while admins can manage inventory and view order details.
 ---
 
 ## 📌 Features
