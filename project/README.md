@@ -1,6 +1,14 @@
 #  E-Commerce Management System (Python + MySQL)
 
-This is a console-based E-commerce management system built using Python and MySQL. It allows users to browse products, manage a shopping cart, and place orders, while admins can manage inventory and view order details.
+This is a terminal-based E-commerce Order Processing System developed using Python and MySQL.  
+It allows customers to register, manage products, use a cart, and place/view orders.  
+The project demonstrates:
+
+- Object-Oriented Programming (OOP)
+- Data Access Object (DAO) Pattern
+- Custom Exceptions
+- MySQL Integration
+- Unit Testing
 ---
 
 ##  Features
@@ -17,7 +25,7 @@ This is a console-based E-commerce management system built using Python and MySQ
 
 ##  Tech Stack
 
-- **Language**: Python 3.x
+- **Language**: Python 
 - **Database**: MySQL
 - **Tools**: VS Code,Mysql
 - **Architecture**: OOP, DAO Pattern
