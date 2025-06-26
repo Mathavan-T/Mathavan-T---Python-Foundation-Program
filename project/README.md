@@ -19,7 +19,7 @@ This is a console-based E-commerce management system built using Python and MySQ
 
 - **Language**: Python 3.x
 - **Database**: MySQL
-- **Tools**: VS Code, GitHub
+- **Tools**: VS Code,Mysql
 - **Architecture**: OOP, DAO Pattern
 
 ---
