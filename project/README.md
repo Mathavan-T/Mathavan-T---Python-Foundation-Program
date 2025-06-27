@@ -63,9 +63,10 @@ ecommerce_project/
 │
 ├── test/
 │   └── test_cases.py
----
 
-## Setup Instructions
+```
+
+##Setup Instructions
 
 ### 1. MySQL Setup
 
