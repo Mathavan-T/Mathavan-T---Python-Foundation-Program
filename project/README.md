@@ -1,4 +1,4 @@
-#  E-Commerce Management System (Python + MySQL)
+#  Case Study on Ecommerce Application
 
 This is a terminal-based E-commerce Order Processing System developed using Python and MySQL.  
 It allows customers to register, manage products, use a cart, and place/view orders.  
