@@ -117,10 +117,10 @@ Uses foreign key relationships and basic CRUD operations.
 
 ## Conclusion
 
-This project showcases a complete E-commerce system developed using core Python and MySQL technologies. 
-It emphasizes clean coding principles including OOP, DAO, exception handling, and modular design. 
-With unit testing and structured database interaction, this application provides a solid foundation for future upgrades 
-such as adding a GUI or converting to a web application using Flask or Django.
+This project is a complete E-commerce system built using Python and MySQL.
+It follows clean coding practices like Object-Oriented Programming (OOP), Data Access Object (DAO) pattern, exception handling, and modular design.
+The system includes proper database handling and basic testing, making it reliable and easy to maintain.
+It is also ready for future upgrades, like adding a GUI or turning it into a web app with Flask or Django.
 
-This solution is robust, easy to maintain, and well-suited for both academic submission and real-world use cases.
+This project is simple, strong, and perfect for both academic projects and real-world use.
 
