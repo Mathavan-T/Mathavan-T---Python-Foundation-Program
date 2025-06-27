@@ -66,7 +66,7 @@ ecommerce_project/
 
 ```
 
-##Setup Instructions
+##  Setup Instructions
 
 ### 1. MySQL Setup
 
